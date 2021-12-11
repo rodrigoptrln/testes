@@ -1,2 +1,1 @@
-feature 3 - arquivo 6.txt
-alterado no feature 3 - arquivo 6.txt
+feature 3 - arquivo 6.txt modificado no github diretamente
