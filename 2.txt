@@ -1,1 +1,2 @@
 2.txt mais esse texto
+alterado arquivo 2.txt
